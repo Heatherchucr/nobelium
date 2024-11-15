@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: '褚容的博客',
   author: 'Craig Hart',
   email: 'i@craigary.net',
   link: 'https://nobelium.vercel.app',
