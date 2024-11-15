@@ -2,7 +2,7 @@ const BLOG = {
   title: '褚容的博客',
   author: '褚容',
   email: '13819159755@163.com',
-  link: ' ',
+  link: '1 ',
   description: '在不确定的未来中找到一些确定，欢迎来到INFJ的树洞.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
